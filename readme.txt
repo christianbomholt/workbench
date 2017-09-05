@@ -1,4 +1,4 @@
 Welcome to repo
 newline
 I added stuff to readme
-its windy today
+its sunny today
